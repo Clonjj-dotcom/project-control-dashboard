@@ -1,10 +1,10 @@
 {
-  "ollama": true,
-  "n8n": true,
-  "qdrant": true,
-  "redis": true,
-  "searxng": true,
-  "openclaw": true,
+  "ollama": false,
+  "n8n": false,
+  "qdrant": false,
+  "redis": false,
+  "searxng": false,
+  "openclaw": false,
   "llm_council": false,
-  "timestamp": "2026-02-26T17:36:45Z"
+  "timestamp": "2026-02-26T17:40:12Z"
 }
