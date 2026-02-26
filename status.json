@@ -5,6 +5,6 @@
   "redis": true,
   "searxng": true,
   "openclaw": true,
-  "llm_council": false,
-  "timestamp": "2026-02-26T05:37:37Z"
+  "llm_council": true,
+  "timestamp": "2026-02-26T05:42:38Z"
 }
