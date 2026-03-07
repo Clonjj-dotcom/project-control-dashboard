@@ -2,9 +2,9 @@
   "ollama": true,
   "n8n": false,
   "qdrant": false,
-  "redis": false,
+  "redis": true,
   "searxng": true,
   "openclaw": true,
   "llm_council": false,
-  "timestamp": "2026-03-07T08:29:14Z"
+  "timestamp": "2026-03-07T08:34:15Z"
 }
