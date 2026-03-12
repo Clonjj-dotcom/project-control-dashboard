@@ -4,7 +4,7 @@
   "qdrant": false,
   "redis": true,
   "searxng": true,
-  "openclaw": false,
+  "openclaw": true,
   "llm_council": false,
-  "timestamp": "2026-03-12T10:20:26Z"
+  "timestamp": "2026-03-12T10:25:27Z"
 }
